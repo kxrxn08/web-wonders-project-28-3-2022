@@ -1,4 +1,4 @@
-# web-wonders-project-28-3-22-
+# web-wonders-project-28-3-22
 
 
 Web Wonders(25-27th march 2022) task
